@@ -22,3 +22,5 @@ Git Bash notes:
 	Step 5) Make whatever changes necessary; check the repo with 'git status'
 	
 	Step 6) push changes with 'git add -A' and 'git push origin HEAD'
+	
+	Step 7) pull request in GitHub
