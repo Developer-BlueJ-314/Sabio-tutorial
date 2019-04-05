@@ -7,3 +7,4 @@ Note:
   
   -once changes are done, merge with master
   
+  -BOOM! newMerge deleted, but all changes were brought back to master
