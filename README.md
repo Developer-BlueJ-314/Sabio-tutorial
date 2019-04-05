@@ -10,6 +10,7 @@ GitHub Notes:
   -BOOM! newMerge deleted, but all changes were brought back to master thru a verified pull request
 
 Git Bash notes:
+
 	Step 1) Open a new directory with 'cd'
 	
 	Step 2) 'git clone <insert URL>' the GitHub repository
